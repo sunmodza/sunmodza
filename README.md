@@ -7,7 +7,7 @@
   - [quantum computing fundamental summary](https://www.facebook.com/photo/?fbid=1210224859373293&set=pcb.1210225399373239)
 ### - Mathematical
   - [Library Auto-Differientation](https://github.com/sunmodza/AutoGrad)
-  - [Matrix Auto Solver](https://github.com/sunmodza/MultiversalRegression)
+  - [Matrix Auto Solver](https://github.com/sunmodza/AutoCurve)
   - [Auto-Curve](https://github.com/sunmodza/AutoCurve)
 ### - Chemical
   - [Stoichiometry](https://github.com/sunmodza/Chemical_tool)
