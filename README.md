@@ -6,13 +6,13 @@
 ### - Quantum Computing
   - [quantum computing fundamental summary](https://www.facebook.com/photo/?fbid=1210224859373293&set=pcb.1210225399373239)
 ### - Mathematical
-  - [Library Auto-Differientation](https://github.com/sunmodza/AutoGrad)
-  - [Matrix Auto Solver](https://github.com/sunmodza/MatrixAutoSolver)
-  - [Auto-Curve](https://github.com/sunmodza/AutoCurve)
+  - [Library Auto-Differientation](https://github.com/sunmodza/AutoGrad) # not ready to public
+  - [Matrix Auto Solver](https://github.com/sunmodza/MatrixAutoSolver) 
+  - [Auto-Curve](https://github.com/sunmodza/AutoCurve) # not ready to public
 ### - Chemical
-  - [Stoichiometry](https://github.com/sunmodza/Chemical_tool)
+  - [Stoichiometry](https://github.com/sunmodza/Chemical_tool) # not ready to public
 ### - For Education App
-  - [SEA-Teacher](https://github.com/sunmodza/SEA-Teacher)
-  - [SEA-Student](https://github.com/sunmodza/SEA-Student)
+  - [SEA-Teacher](https://github.com/sunmodza/SEA-Teacher) # not ready to public
+  - [SEA-Student](https://github.com/sunmodza/SEA-Student) # not ready to public
 ### - Game
-  - [WhiteLine](https://github.com/sunmodza/WhiteLine)
+  - [WhiteLine](https://github.com/sunmodza/WhiteLine) # not ready to public
