@@ -41,7 +41,7 @@
   - [quantum computing fundamental summary](https://www.facebook.com/photo/?fbid=1210224859373293&set=pcb.1210225399373239)
 ### - Mathematical
   - [Library Auto-Differientation](https://github.com/sunmodza/AutoGrad) # not ready to public
-  - [Matrix Auto Solver](https://github.com/sunmodza/MatrixAutoSolver) 
+  - [Matrix Auto Solver](https://github.com/sunmodza/MatrixAutoSolver) # not ready to public
   - [Auto-Curve](https://github.com/sunmodza/AutoCurve) # not ready to public
   
   [![Auto180IQ](https://github-readme-stats.vercel.app/api/pin/?username=sunmodza&repo=Auto180IQ&show_owner=True)](https://github.com/sunmodza/Auto180IQ)
