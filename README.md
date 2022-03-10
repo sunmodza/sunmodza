@@ -43,7 +43,7 @@
   - [Library Auto-Differientation](https://github.com/sunmodza/AutoGrad) # not ready to public
   - [Matrix Auto Solver](https://github.com/sunmodza/MatrixAutoSolver) 
   - [Auto-Curve](https://github.com/sunmodza/AutoCurve) # not ready to public
-  - [![Auto180IQ](https://github-readme-stats.vercel.app/api/pin/?username=sunmodza&repo=Auto180IQ&show_owner=True)](https://github.com/sunmodza/Auto180IQ)
+  [![Auto180IQ](https://github-readme-stats.vercel.app/api/pin/?username=sunmodza&repo=Auto180IQ&show_owner=True)](https://github.com/sunmodza/Auto180IQ)
 ### - Chemical
   - [Stoichiometry](https://github.com/sunmodza/Chemical_tool) # not ready to public
 ### - For Education App
