@@ -13,7 +13,7 @@
   ![Github](https://img.shields.io/badge/Tool-Github-white)
   ![Firebase](https://img.shields.io/badge/DB-Firebase-orange)
   ![NPM](https://img.shields.io/badge/Tool-NPM-orange)
-  ![GoogleAppScript](https://img.shields.io/badge/Code-GoogleAppScript-Green)
+  ![GoogleAppsScript](https://img.shields.io/badge/Code-GoogleAppScript-Green)
   ![Arduino](https://img.shields.io/badge/Make-Arduino-Green)
   ![VS-code](https://img.shields.io/badge/Tool-VScode-blue)
   ![Pycharm](https://img.shields.io/badge/Tool-Pycharm-yellow)
