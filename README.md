@@ -19,6 +19,7 @@
   ![Pycharm](https://img.shields.io/badge/Tool-Pycharm-yellow)
   ![Arduino-IDE](https://img.shields.io/badge/Tool-Pycharm-green)
   ![Heroku](https://img.shields.io/badge/Tool-Heroku-purple)
+  ![PowerBI](https://img.shields.io/badge/Tool-PowerBI-yellow)
   
   
 ### havent try to make real world app with these yet!!
